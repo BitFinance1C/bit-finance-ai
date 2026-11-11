@@ -1,0 +1,13 @@
+[
+  {
+    "id": "get_budget",
+    "name": "Получить бюджет",
+    "description": "Получение данных оборотов бюджета",
+    "handler_type": "Отчет",
+    "file": "get_budget.json",
+    "epf_file": null,
+    "version": "1.0",
+    "author": "bit-finance",
+    "tags": ["бюджет", "отчет"]
+  }
+]
